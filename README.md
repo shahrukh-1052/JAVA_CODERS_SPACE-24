@@ -98,7 +98,7 @@ All contributions are welcome, whether it's improving existing code or adding ne
 ---
 
 ## 📞 Let's Connect!
-For any queries or suggestions, feel free to [open an issue](https://github.com/shahrukh-1052/JAVA_CODEX24/issues) or reach out on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-habeebuddin-a108ab288/)). Let's build an amazing Java learning resource together!
+For any queries or suggestions, feel free to [open an issue](https://github.com/shahrukh-1052/JAVA_CODEX24/issues) or reach out on [LinkedIn](https://www.linkedin.com/in/mohammed-habeebuddin-a108ab288). Let's build an amazing Java learning resource together!
 
 ---
 
