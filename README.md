@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/6af8b370-02e5-4ae5-bb32-3fa21ea93c54)
 
-# 🌟 JAVA_CODEX'24 🌟
+# 🌟 JAVA_CODERS_SPACE'24 🌟
 
 Welcome to **JAVA_CODEX'24**, a curated collection of the best and most useful Java codes designed for developers and learners alike. Whether you're looking to understand fundamental concepts or explore advanced Java programming techniques, this repository has you covered!
 
@@ -102,4 +102,4 @@ For any queries or suggestions, feel free to [open an issue](https://github.com/
 
 ---
 
-**JAVA_CODEX'24** – Empowering Java enthusiasts, one code at a time. 🌱✨
+**JAVA_CODERS_SPACE'24** – Empowering Java enthusiasts, one code at a time. 🌱✨
